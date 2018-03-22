@@ -9,7 +9,7 @@ categories: hexo
 # 整站配置
 您可以在 _config.yml 中修改大部份的配置。
 
-<!-----more----->
+
 ## 网站
 |参数|描述|
 |:---|:---|
@@ -19,7 +19,7 @@ categories: hexo
 |author|	您的名字|
 |language|	网站使用的语言|
 |timezone|	网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。|
-
+<!-----more----->
 其中，description主要用于SEO，告诉搜索引擎一个关于您站点的简单描述，通常建议在其中包含您网站的关键词。author参数用于主题显示文章的作者。
 ## 网址
 |参数|描述|默认值|
